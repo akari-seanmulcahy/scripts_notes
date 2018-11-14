@@ -47,11 +47,13 @@ git checkout master
 git pull
 ```
 
-###### Creatre a new repo.
+###### Create a new repo.
 1. Click on New Repository button
 If you have a folder already, in that folder type: 
-`git remote add origin git@github.com:seaniemul/scripts_notes.git
-git push -u origin master`
+```
+git remote add origin git@github.com:seaniemul/scripts_notes.git
+git push -u origin master
+```
 
 ###### Markup code for README pages like this
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
