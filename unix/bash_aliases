@@ -1,0 +1,3 @@
+alias h=history
+#alias for cd'ing to folder where hd recovery scripts are
+alias hd='cd /Users/smu25/Documents/personal/hd_recovery'
