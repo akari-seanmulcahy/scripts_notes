@@ -4,4 +4,4 @@ if [ -f ~/.bashrc ]; then
 fi
 
 # Set the prompt to have the full path in it along whith username and machine
-export PS1='$(whoami)@$(hostname):$(pwd): '
+export PS1='$(whoami)@$(hostname):$(pwd):$ '
