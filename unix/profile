@@ -1,0 +1,7 @@
+# Source the bashrc
+if [ -f ~/.bashrc ]; then
+    . ~/.bashrc
+fi
+
+# Set the prompt to have the full path in it along whith username and machine
+export PS1='$(whoami)@$(hostname):$(pwd): '
