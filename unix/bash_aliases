@@ -1,3 +1,4 @@
 alias h=history
 #alias for cd'ing to folder where hd recovery scripts are
 alias hd='cd /Users/smu25/Documents/code/hd_recovery'
+alias pb='cd /Users/smu25/Documents/personal_backup'
