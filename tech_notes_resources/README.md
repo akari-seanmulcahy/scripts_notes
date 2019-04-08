@@ -9,16 +9,17 @@
   * [ThinkStar F/E GitHub](https://github.com/gothinkster)
 
 ## REACT
-  * https://facebook.github.io/create-react-app/
-  * https://reactjs.org/docs/hello-world.html
-  * https://reactjs.org 
-  * React Codeschool/pluralsight: http://campus.codeschool.com/courses/powering-up-with-react/level/1/section/1/first-component 
+  * Facebook's React Starter kit:
+     * https://facebook.github.io/create-react-app/
+     * https://reactjs.org/docs/hello-world.html
+     * https://reactjs.org 
+  * [React Codeschool/pluralsight](http://campus.codeschool.com/courses/powering-up-with-react/level/1/section/1/first-component)
   * https://github.com/enaqx/awesome-react 
   * Jest = Automated testing
   * GraphQL - Restful API call (declare calls on the client side)
   * Next.JS - Setup server side rendered site - React with Node
   * https://www.javascriptstuff.com/react-starter-projects/ 
-  * [ReactForBeginners.com](link: http://ReactForBeginners.com) 
+  * [ReactForBeginners.com](http://ReactForBeginners.com) 
  
 
 ### CSS:
