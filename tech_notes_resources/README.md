@@ -18,6 +18,7 @@
   * GraphQL - Restful API call (declare calls on the client side)
   * Next.JS - Setup server side rendered site - React with Node
   * https://www.javascriptstuff.com/react-starter-projects/ 
+  * [ReactForBeginners.com](link: http://ReactForBeginners.com) 
  
 
 ### CSS:
@@ -79,11 +80,10 @@
   * Pluralsight: https://app.pluralsight.com/library/
   * LinkedIn Learning: https://www.linkedin.com/learning/me 
   * https://wesbos.com > https://twitter.com/wesbos
-      * Fullstack Dev ❯ JS
-      * CSS Node ❯ 
-		     * (link: https://ES6.io) ES6.io ❯ 
-		     * (link: https://LearnNode.com) LearnNode.com ❯ 
-		     * (link: http://ReactForBeginners.com) ReactForBeginners.com ❯
-		     * (link: http://JavaScript30.com) JavaScript30.com ❯
+      * Fullstack Dev ❯ JS > CSS Node ❯ 
+		     * [ES6.io](link: https://ES6.io) 
+		     * [LearnNode.com](link: https://LearnNode.com) 
+		     * [ReactForBeginners.com](link: http://ReactForBeginners.com) 
+		     * [JavaScript30.com](link: http://JavaScript30.com) 
 * Trailhead https://trailhead.salesforce.com/ 
 
