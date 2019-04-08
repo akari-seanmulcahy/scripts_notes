@@ -30,10 +30,12 @@ to see what you are in the middle of doing, use one of:
 * `git status`
 
 ###### Adding files and folders
+```
 git add <folder>
 git add <folder>/<filename>
 git commit -m "add new file in new folder"
 git push
+```
 
 ###### commit some code
 `git commit -m "Message while you are commiting code" <file>`
