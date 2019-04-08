@@ -12,6 +12,7 @@ Traditioanl WebApps use MVC
 *	Model - JS
 *	View - HTML
 *	Controller - JS
+
 React - all (logic & markup) in same file:
 *	JS
 *	JSX
@@ -28,7 +29,7 @@ Break a page down into small components that are self containted and that you ca
 
 Build Step is typically required
 
-Maintain state, can use a number of options:
+Maintain state - can use a number of options:
 * Plain React
 * Flux
 * Redux
