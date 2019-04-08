@@ -3,7 +3,9 @@
 Notes from: https://app.pluralsight.com/player?course=react-big-picture&author=cory-house&name=e20fe73e-099f-4a1d-86a4-0077e941b3ac&clip=4
 
 React is  Library rather than a framework like Angular/Ember
+
 React is lightwieight (35K)
+
 Makes use of JS to create fake HTML rather than HTML to create fake JS Framework specific Syntax (Vue/Ember) - good if you already know JS
 
 Traditioanl WebApps use MVC
@@ -15,6 +17,7 @@ React - all (logic & markup) in same file:
 *	JSX
 
 Seperation of concerns:
+
 Also instead of 3 diff files for CSS, JS and HTML for your website, a React component file would have:
 *   CSS
 *   JS
