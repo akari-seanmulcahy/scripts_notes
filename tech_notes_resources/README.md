@@ -81,9 +81,9 @@
   * LinkedIn Learning: https://www.linkedin.com/learning/me 
   * https://wesbos.com > https://twitter.com/wesbos
       * Fullstack Dev ❯ JS > CSS Node ❯ 
-		     * [ES6.io](link: https://ES6.io) 
-		     * [LearnNode.com](link: https://LearnNode.com) 
-		     * [ReactForBeginners.com](link: http://ReactForBeginners.com) 
-		     * [JavaScript30.com](link: http://JavaScript30.com) 
+		     * [ES6.io](https://ES6.io) 
+		     * [LearnNode.com](https://LearnNode.com) 
+		     * [ReactForBeginners.com](http://ReactForBeginners.com) 
+		     * [JavaScript30.com](http://JavaScript30.com) 
 * Trailhead https://trailhead.salesforce.com/ 
 
