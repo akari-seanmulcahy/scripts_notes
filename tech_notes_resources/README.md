@@ -6,8 +6,8 @@
 ### Front End Javascript Frameworks:
   * Charlie gerard F/E Blog: 
       https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e 
-  * Charlie gerard GitHub
-  * ThinkStar F/E GitHub
+  * [Charlie gerard GitHub](https://github.com/charliegerard)
+  * [ThinkStar F/E GitHub](https://github.com/gothinkster)
 
 ## REACT
   * https://facebook.github.io/create-react-app/
@@ -72,7 +72,7 @@
   * 12 factors to build services (philposphy) : 12factor.net
   * Liz Keogh: https://lizkeogh.com 
 
-## reatives:
+## Creatives:
   * Graphic Templates: https://www.hubspot.com/infographic-templates
   * 53.com Paper (drawing) & Paste (slides)
 
