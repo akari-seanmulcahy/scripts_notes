@@ -9,6 +9,10 @@ React is lightwieight (35K)
 
 Makes use of JS to create fake HTML rather than HTML to create fake JS Framework specific Syntax (Vue/Ember) - good if you already know JS
 
+
+
+__Seperation of concerns:__
+
 Traditioanl WebApps use MVC
 *	Model - JS
 *	View - HTML
@@ -18,13 +22,12 @@ React - all (logic & markup) in same file:
 *	JS
 *	JSX
 
-__Seperation of concerns:__
-
 Also instead of 3 diff files for CSS, JS and HTML for your website, a React component file would have:
 *   CSS
 *   JS
 *   HTML
 	all in the same file, rather than 3 diff files
+
 
 Break a page down into small components that are self containted and that you can reason about and test.
 
