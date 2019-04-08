@@ -1,6 +1,7 @@
 # React notes
 
-Notes from: https://app.pluralsight.com/player?course=react-big-picture&author=cory-house&name=e20fe73e-099f-4a1d-86a4-0077e941b3ac&clip=4
+
+[Notes from Pluralsight React course](https://app.pluralsight.com/player?course=react-big-picture&author=cory-house&name=e20fe73e-099f-4a1d-86a4-0077e941b3ac&clip=4)
 
 React is  Library rather than a framework like Angular/Ember
 
@@ -17,7 +18,7 @@ React - all (logic & markup) in same file:
 *	JS
 *	JSX
 
-Seperation of concerns:
+__Seperation of concerns:__
 
 Also instead of 3 diff files for CSS, JS and HTML for your website, a React component file would have:
 *   CSS
