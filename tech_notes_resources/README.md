@@ -1,0 +1,90 @@
+# Tech Notes/Links/Resources:
+
+
+## Programming
+
+### Front End Javascript Frameworks:
+  * Charlie gerard F/E Blog: 
+      https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e 
+  * Charlie gerard GitHub
+  * ThinkStar F/E GitHub
+
+## REACT
+  * https://facebook.github.io/create-react-app/
+  * https://reactjs.org/docs/hello-world.html
+  * https://reactjs.org 
+  * React Codeschool/pluralsight: http://campus.codeschool.com/courses/powering-up-with-react/level/1/section/1/first-component 
+  * https://github.com/enaqx/awesome-react 
+  * Jest = Automated testing
+  * GraphQL - Restful API call (declare calls on the client side)
+  * Next.JS - Setup server side rendered site - React with Node
+  * https://www.javascriptstuff.com/react-starter-projects/ 
+ 
+
+### CSS:
+  * https://github.com/josh/css-explain (like SQL explain)
+  * https://csstriggers.com (what tags trigger diff types of CSS rendering)
+
+  * W3 - https://www.w3.org
+
+### Java:
+  * Spring.io 
+      * https://start.spring.io 
+      * https://spring.io/guides/gs/rest-service/ 
+  * https://github.com/Netflix/photon 
+
+### Python
+  * http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html
+  * http://rgruet.free.fr/#QuickRef 
+
+### Performance
+  * Google Site Speed: https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html
+
+
+### Apple terminal:
+  * https://sourabhbajaj.com/mac-setup/iTerm/
+  * https://www.iterm2.com/downloads.html 
+
+### Testing:
+  * BDD: https://leanpub.com/bdd
+
+### IDE/Text Editors
+  * PyCharm
+  * Sublime text
+  * Atom
+  * JetBrains
+  * VSCode
+       * Including Emmet in VS Code: https://www.youtube.com/watch?v=5guZjNDcVnA
+       * Docs.emmet.io
+  * Can include https://htmlhint.io in the build process to catch errors
+  * Brackets: http://brackets.io 
+
+### Kubernetes: 
+  * https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
+  * Sky’s Core Platform: https://github.com/sky-uk/core-platform/wiki 
+
+### Git: 
+  * https://www.codecademy.com/learn/learn-git 
+
+## Blogs/Sites
+  * Luigi: http://www.lcardito.me
+  * Ian Meill Blog: https://zwischenzugs.com
+  * 12 factors to build services (philposphy) : 12factor.net
+  * Liz Keogh: https://lizkeogh.com 
+
+## reatives:
+  * Graphic Templates: https://www.hubspot.com/infographic-templates
+  * 53.com Paper (drawing) & Paste (slides)
+
+## Courses/Online tutorials etc:
+  * Pluralsight: https://app.pluralsight.com/library/
+  * LinkedIn Learning: https://www.linkedin.com/learning/me 
+  * https://wesbos.com > https://twitter.com/wesbos
+		  * Fullstack Dev ❯ JS
+		  * CSS Node ❯ 
+		  * (link: https://ES6.io) ES6.io ❯ 
+		  * (link: https://LearnNode.com) LearnNode.com ❯ 
+		  * (link: http://ReactForBeginners.com) ReactForBeginners.com ❯
+		  * (link: http://JavaScript30.com) JavaScript30.com ❯
+* Trailhead https://trailhead.salesforce.com/ 
+
