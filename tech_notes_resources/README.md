@@ -88,3 +88,5 @@
          * [JavaScript30.com](http://JavaScript30.com) 
 * Trailhead https://trailhead.salesforce.com/ 
 
+## Terminology
+  * npm - node package manager
