@@ -39,5 +39,7 @@ Maintain state - can use a number of options:
 * Redux
 * MobX
 
+One potential philosphy: “use functions for simple components and use classes for managing state.
+
 Notes:
 OB: Server Side Rendering of HTML.
