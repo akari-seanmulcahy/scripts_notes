@@ -20,6 +20,8 @@
   * Next.JS - Setup server side rendered site - React with Node
   * https://www.javascriptstuff.com/react-starter-projects/ 
   * [ReactForBeginners.com](http://ReactForBeginners.com) 
+  * [React Tutorial and Eco System]( https://github.com/petehunt/react-howto)
+  * [React Brad Frost Blog- Struggles to learn React](http://bradfrost.com/blog/post/my-struggle-to-learn-react/)
  
 
 ### CSS:
