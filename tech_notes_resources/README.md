@@ -28,8 +28,8 @@
   * https://github.com/josh/css-explain (like SQL explain)
   * https://csstriggers.com (what tags trigger diff types of CSS rendering)
   * [50 CSS3 design tutorials](https://designmodo.com/css3-techniques-tutorials/)
-
   * W3 - https://www.w3.org
+
 
 ### Java:
   * Spring.io 
