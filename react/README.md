@@ -31,7 +31,11 @@ Also instead of 3 diff files for CSS, JS and HTML for your website, a React comp
 
 Break a page down into small components that are self containted and that you can reason about and test.
 
-Build Step is typically required
+Build Step is typically required to convert many JS files created using ES2016 or JSX syntax files (i.e. facebook's create-react-app bootstrapper) into a format to be served to the browsers.
+'''
+npm install -g create-react-app
+create-react-app counter-cliker
+'''
 
 Maintain state - can use a number of options:
 * Plain React
