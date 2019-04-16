@@ -22,6 +22,9 @@
   * [ReactForBeginners.com](http://ReactForBeginners.com) 
   * [React Tutorial and Eco System]( https://github.com/petehunt/react-howto)
   * [React Brad Frost Blog- Struggles to learn React](http://bradfrost.com/blog/post/my-struggle-to-learn-react/)
+  * https://semantic-ui.com
+  * [Semantic UI in 60 mins](https://www.youtube.com/watch?v=a9mUH1EWp40)
+  * https://www.robinwieruch.de/react-semantic-ui-tutorial/
  
 
 ### CSS:
