@@ -75,6 +75,7 @@
 
 ### Git: 
   * https://www.codecademy.com/learn/learn-git 
+  * https://pages.github.com/
 
 ## Blogs/Sites
   * Luigi: http://www.lcardito.me
