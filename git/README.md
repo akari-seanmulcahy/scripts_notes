@@ -37,10 +37,10 @@ git add .
 git commit -m "add initial files"
 ```
 Now you have a local git repository. You can use git locally, like that, if you want. But if you want the thing to have a home on github, do the following"
-Go to github.
-Log in to your account.
-Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, but I don’t.
-Click the “Create repository” button.
+* Go to github.
+* Log in to your account.
+* Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, but I don’t.
+* Click the “Create repository” button.
 
 ```
 git remote add origin git@github.com:seaniemul/seaniemul.github.io.git
