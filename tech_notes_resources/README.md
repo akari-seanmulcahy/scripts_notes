@@ -101,6 +101,7 @@
          * [ReactForBeginners.com](http://ReactForBeginners.com) 
          * [JavaScript30.com](http://JavaScript30.com) 
 * Trailhead https://trailhead.salesforce.com/ 
+* [Coding for kids](Code.org)
 
 ## Terminology
   * npm - node package manager
