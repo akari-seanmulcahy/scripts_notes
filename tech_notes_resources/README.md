@@ -80,6 +80,7 @@
 ### Git: 
   * https://www.codecademy.com/learn/learn-git 
   * https://pages.github.com/
+  * https://git-scm.com/book/en/v1/Git-Basics-Recording-Changes-to-the-Repository
 
 ## Blogs/Sites
   * Luigi: http://www.lcardito.me
