@@ -83,3 +83,6 @@ git push -u origin master
 
 ###### Markup code for README pages like this
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+
+###### Useful page on GIT
+https://git-scm.com/book/en/v1/Git-Basics-Recording-Changes-to-the-Repository
