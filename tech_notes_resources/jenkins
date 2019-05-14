@@ -1,0 +1,8 @@
+'Getting Started wiht Jenkins 2.0 course on Pluralsight'
+Install Java
+Install Jenkins (for e.g. in /Applications/Jenkins)
+To run Jenkins:
+cd /Applications/Jenkins
+java -jar jenkins.war --enable-future-java --httpPort=8090
+View via the non default port of 8090:
+http://localhost:8090
