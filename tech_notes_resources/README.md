@@ -54,7 +54,6 @@
 ### Performance
   * Google Site Speed: https://webmasters.googleblog.com/2010/04/using-site-speed-in-web-search-ranking.html
 
-
 ### Apple terminal:
   * https://sourabhbajaj.com/mac-setup/iTerm/
   * https://www.iterm2.com/downloads.html 
@@ -106,3 +105,7 @@
 
 ## Terminology
   * npm - node package manager
+
+### Agile
+  * [State of Agile](https://www.stateofagile.com/#ufh-c-473508-state-of-agile-report)
+
