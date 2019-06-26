@@ -26,6 +26,7 @@
   * https://semantic-ui.com
   * [Semantic UI in 60 mins](https://www.youtube.com/watch?v=a9mUH1EWp40)
   * https://www.robinwieruch.de/react-semantic-ui-tutorial/
+  * 'npm install semantic-ui --save'
  
 
 ### CSS:
