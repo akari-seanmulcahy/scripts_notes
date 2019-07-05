@@ -106,6 +106,7 @@
          * [JavaScript30.com](http://JavaScript30.com) 
 * Trailhead https://trailhead.salesforce.com/ 
 * [Coding for kids](Code.org)
+* [https://guide.freecodecamp.org/rest-api/](Free Code Camp)
 
 ## Terminology
   * npm - node package manager
