@@ -113,4 +113,7 @@
 
 ### Agile
   * [State of Agile](https://www.stateofagile.com/#ufh-c-473508-state-of-agile-report)
+  * [Retromat](https://retromat.org/en/?id=131)
+  * [More Retromat Retro ideas](https://retromat.org/blog/best-retrospective-for-beginners/)
+  * [Scrum Framework YouTube](https://www.youtube.com/watch?v=_BWbaZs1M_8)
 
