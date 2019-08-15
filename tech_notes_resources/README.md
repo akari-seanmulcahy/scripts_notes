@@ -87,7 +87,6 @@
   * https://git-scm.com/book/en/v1/Git-Basics-Recording-Changes-to-the-Repository
 
 ## Blogs/Sites
-  * Luigi: http://www.lcardito.me
   * Ian Meill Blog: https://zwischenzugs.com
   * 12 factors to build services (philposphy) : 12factor.net
   * Liz Keogh: https://lizkeogh.com 
@@ -111,6 +110,9 @@
 
 ## Terminology
   * npm - node package manager
+  
+## Misc
+  * [LaTeX CV example](https://github.com/hmemcpy/cv)
 
 ### Agile
   * [State of Agile](https://www.stateofagile.com/#ufh-c-473508-state-of-agile-report)
