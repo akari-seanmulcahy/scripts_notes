@@ -64,6 +64,7 @@
 
 ### Testing:
   * BDD: https://leanpub.com/bdd
+  * PACT (API Contract Testing): https://docs.pact.io/
 
 ### IDE/Text Editors
   * PyCharm
